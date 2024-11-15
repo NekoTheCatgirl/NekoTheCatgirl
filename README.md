@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello fellow developers and recruiters!
+I am known as NekoTheCatgirl online!
 
-<!--
-**NekoTheCatgirl/NekoTheCatgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been working as a developer as a hobby since i was a wee lil child. And have now been going strong for over 10 years!
 
-Here are some ideas to get you started:
+## Current ocupation
+I am currently a Student at Nackademin in stockholm. Learning to become a VR developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages i work with
+Main languages
+- Rust
+- C#
+- C++
+- Python
+
+Honorable mentions
+- Assembly & C ~ A small part for a osdev project.
