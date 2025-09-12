@@ -11,7 +11,7 @@ Main languages
 - Rust
 - C#
 - C++
-- Python
+- Java
 
 Honorable mentions
 - Assembly & C ~ A small part for a osdev project.
