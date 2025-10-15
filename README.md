@@ -15,3 +15,8 @@ Main languages
 
 Honorable mentions
 - Assembly & C ~ A small part for a osdev project.
+
+## Want to support me?
+You can easily support me by donating to my [ko-fi](https://ko-fi.com/NekoTheCatgirl)!
+
+All donations are very appreciated but also non refundable.
