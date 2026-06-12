@@ -3,7 +3,7 @@
 I have been working as a developer as a hobby since i was a wee lil child. And have now been going strong for over 10 years!
 
 ## Current ocupation
-I am currently a Student at Nackademin in stockholm. Learning to become a VR developer!
+Im currently unemployed/freelancing, if you wish to work with me, contact me at [contact@nekothecatgirl.com](mailto:contact@nekothecatgirl.com)
 
 ## Languages i work with
 Main languages
